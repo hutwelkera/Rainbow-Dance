@@ -2,3 +2,4 @@ Step left
 Step Right
 Spin 4 times
 Smile
+Clap your hands at the end!
